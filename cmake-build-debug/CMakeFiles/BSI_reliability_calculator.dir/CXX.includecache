@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/CLionProjects/BSI_reliability_calculator/finding_reliability_of_each_element_connected_in_parallel.cpp
+iostream
+-
+math.h
+-
+finding_reliability_of_each_element_connected_in_parallel.h
+C:/Users/user/CLionProjects/BSI_reliability_calculator/finding_reliability_of_each_element_connected_in_parallel.h
+
+C:/Users/user/CLionProjects/BSI_reliability_calculator/finding_reliability_of_each_element_connected_in_parallel.h
+
