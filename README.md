@@ -1,1 +1,1 @@
-# BSI_reliability_calculator
+# BSI_reliability_calculator by Anastasiia Ponkratova, Julia Migiel
