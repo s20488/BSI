@@ -1,6 +1,8 @@
-﻿#include <iostream>
-#include "finding_reliability_of_each_element_connected_in_parallel.h" as "df"
+#include <iostream>
+
 using namespace std;
+
+double finding_reliability(int num_of_components, double sys_reliability);
 
 int main() {
     int choose;
