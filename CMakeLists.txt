@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.20)
-project(BSI_reliability_calculator)
-
-set(CMAKE_CXX_STANDARD 17)
-
-add_executable(BSI_reliability_calculator main.cpp "finding_reliability_of_each_element_connected_in_parallel.cpp" finding_reliability_of_each_element_connected_in_parallel.h comparing_probability_of_success_of_events.cpp comparing_probability_of_success_of_events.h)
