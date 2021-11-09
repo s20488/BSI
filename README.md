@@ -2,7 +2,7 @@
 
 #### 1. Calculation of reliability of each element in parallel in the system
         A  system is  composed of 5  identical independent elements in parallel. What should be the  reliability of each element to achieve a 
-        Problems 345 system reliability of 0.96 ?
+        reliability of 0.96 ?
 
         Answer:1-((1-0.96))^(1/5))=1-0,52=0,48
          
