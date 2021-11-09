@@ -22,7 +22,21 @@
          16/21 : 1/3=16 : 7
          
          
-#### 3. Calculation probability of finding 2 kids from group that contains x kids,y womans,z mens
+#### 3. Calculate probability that only one of woman or man will be selecte with specified probability
+        A man and his wife appear in an interview for two vacancies in the same post. 
+        The probability of husband's selection is 1/7 
+        and the probability of wife's selection is 1/5 
+        What is the probability that only one of them is selected ?
+
+        Answer:
+        P(A)=1/7
+        P(B)=1/5
+        
+        So there is 6/7 probability for men to not to be selected and 4/5 for woman
+        So required probability will be:
+        P[(A and notB)or(B and notA)]=(1/7)*(4/5)+(1/5)*(6/7)=(4+6)/35=10/35
+    
+#### 4. Calculation probability of finding 2 kids from group that contains x kids, y womans, z mens
 
       Four persons are  chosen at random from a group containing 3  men, 2  women and  4  children. 
       Calculate the chances that exactly two of them will be children.
@@ -39,23 +53,8 @@
        5C2=10
        
        So the probability will be (10*6)/126 = 10/21
-    
-
-#### 4. Calculate probability that only one of woman or man will be selecte with specified probability
-        A man and his wife appear in an interview for two vacancies in the same post. 
-        The probability of husband's selection is 1/7 
-        and the probability of wife's selection is 1/5 
-        What is the probability that only one of them is selected ?
-
-        Answer:
-        P(A)=1/7
-        P(B)=1/5
         
-        So there is 6/7 probability for men to not to be selected and 4/5 for woman
-        So required probability will be:
-        P[(A and notB)or(B and notA)]=(1/7)*(4/5)+(1/5)*(6/7)=(4+6)/35=10/35
-        
-#### 5. Calculate probability that the cinemahouse will have power on any given day
+#### 5. Finding probability of capacity availability in the cinema on any day
         A  cinema house gets electric power from a generator run  by diesel engine. On any day, 
         the probability that the generator is down (event A) is 0.025 and the probability 
         that the diesel engine is down (event B) is 0.04. What is the  probability that the 
