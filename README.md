@@ -8,7 +8,7 @@
          
          
 #### 2. Comparison of the probability of A's success to that of B's success;
-        A  has  one  share in  a  lottery in  which there is  one  prize and two blanks ;  B   has  three shares in  a  lottery in  which there are  three prizes and  6  blanks; compare the probability of A's success to that of B's success. 
+         A  has  one  share in  a  lottery in  which there is  one  prize and two blanks ;  B   has  three shares in  a  lottery in  which there are  three prizes and  6  blanks; compare the probability of A's success to that of B's success. 
         
          Answer:
          
