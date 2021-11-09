@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/CLionProjects/BSI_reliability_calculator/Problems/Header files/comparing_probability_of_success_of_events.h
+
+C:/Users/user/CLionProjects/BSI_reliability_calculator/Problems/Header files/finding_probility_of_two_kids.h
+
+C:/Users/user/CLionProjects/BSI_reliability_calculator/Problems/Header files/finding_reliability_of_each_element_connected_in_parallel.h
+
+C:/Users/user/CLionProjects/BSI_reliability_calculator/Problems/Header files/probability_of_electricity_on_any_day.h
+
+C:/Users/user/CLionProjects/BSI_reliability_calculator/Problems/Header files/probability_of_passing_interview.h
+
+C:/Users/user/CLionProjects/BSI_reliability_calculator/Problems/probability_of_electricity_on_any_day.cpp
+iostream
+-
+cmath
+-
+Header files/probability_of_electricity_on_any_day.h
+C:/Users/user/CLionProjects/BSI_reliability_calculator/Problems/Header files/probability_of_electricity_on_any_day.h
+
+C:/Users/user/CLionProjects/BSI_reliability_calculator/main.cpp
+iostream
+-
+Problems/Header files/finding_reliability_of_each_element_connected_in_parallel.h
+C:/Users/user/CLionProjects/BSI_reliability_calculator/Problems/Header files/finding_reliability_of_each_element_connected_in_parallel.h
+Problems/Header files/comparing_probability_of_success_of_events.h
+C:/Users/user/CLionProjects/BSI_reliability_calculator/Problems/Header files/comparing_probability_of_success_of_events.h
+Problems/Header files/probability_of_passing_interview.h
+C:/Users/user/CLionProjects/BSI_reliability_calculator/Problems/Header files/probability_of_passing_interview.h
+Problems/Header files/finding_probility_of_two_kids.h
+C:/Users/user/CLionProjects/BSI_reliability_calculator/Problems/Header files/finding_probility_of_two_kids.h
+Problems/Header files/probability_of_electricity_on_any_day.h
+C:/Users/user/CLionProjects/BSI_reliability_calculator/Problems/Header files/probability_of_electricity_on_any_day.h
+
