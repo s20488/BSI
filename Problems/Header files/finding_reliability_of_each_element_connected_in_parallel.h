@@ -1,0 +1,5 @@
+#ifndef BSI_RELIABILITY_CALCULATOR_FINDING_RELIABILITY_OF_EACH_ELEMENT_CONNECTED_IN_PARALLEL_H
+#define BSI_RELIABILITY_CALCULATOR_FINDING_RELIABILITY_OF_EACH_ELEMENT_CONNECTED_IN_PARALLEL_H
+void z1_load_data();
+void finding_reliability(int num_of_components, double sys_reliability);
+#endif

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(BSI_reliability_calculator)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_EXE_LINKER_FLAGS "-static")
+add_executable(BSI_reliability_calculator main.cpp "Problems/finding_reliability_of_each_element_connected_in_parallel.cpp" "Problems/Header files/finding_reliability_of_each_element_connected_in_parallel.h" Problems/comparing_probability_of_success_of_events.cpp "Problems/Header files/comparing_probability_of_success_of_events.h" Problems/probability_of_passing_interview.cpp "Problems/Header files/probability_of_passing_interview.h" Problems/finding_probility_of_two_kids.cpp "Problems/Header files/finding_probility_of_two_kids.h" "Other functions/convert_decimal_to_fractional_and_number_of_combinations.cpp" "Other functions/convert_decimal_to_fractional_and_number_of_combinations.h" Problems/probability_of_electricity_on_any_day.cpp "Problems/Header files/probability_of_electricity_on_any_day.h")
