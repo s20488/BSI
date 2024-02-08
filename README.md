@@ -1,4 +1,4 @@
-# BSI_reliability_calculator by Anastasiia Ponkratova, Julia Migiel
+# BSI-reliability-calculator by Anastasiia Ponkratova, Julia Migiel
 
 #### 1. Calculation of reliability of each element in parallel in the system
         A  system is  composed of 5  identical independent elements in parallel. What should be the  reliability of each element to achieve a 
